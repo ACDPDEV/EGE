@@ -1,3 +1,7 @@
+> [!IMPORTANT]
+> Este proyecto solo incluye dibujo básico de líneas por CPU
+> No tomarse en serio este proyecto
+
 # Experimental Graphics Engine (EGE)
 
 Este es un proyecto de aprendizaje para explorar los fundamentos de un motor gráfico. EGE (Experimental Graphics Engine) se centra en la implementación de algoritmos y estructuras de datos fundamentales para el renderizado de gráficos.
